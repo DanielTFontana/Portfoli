@@ -4,7 +4,9 @@ const Project_2 = () =>{
     return (
         <Fragment>
             <div className="p-10 container mx-auto flex justify-center">
-                <img className=" w-7/12 rounded-md min-[500px]:w-full sm:w-full lg:w-full xl:w-8/12" src="../log-in_inpeace_app_proj.png"></img>
+                <a href="https://github.com/DanielTFontana/Uppersoft-intership-test" className=" w-7/12 rounded-md min-[500px]:w-full sm:w-full lg:w-full xl:w-8/12">
+                <img  src="../log-in_inpeace_app_proj.png"></img>
+                </a>
             </div>
             
            
