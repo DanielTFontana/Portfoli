@@ -7,7 +7,9 @@ const Project_1 = () =>{
     return (
         <Fragment>
             <div className="p-10 container mx-auto flex justify-center">
-                <img className="w-7/12 rounded-md min-[500px]:w-full sm:w-full lg:w-full xl:w-8/12 " src="../flex_grid_proj.png"></img>
+                <a className="w-7/12 rounded-md min-[500px]:w-full sm:w-full lg:w-full xl:w-8/12 " href="https://github.com/DanielTFontana/Moderns-CSS-class">
+                <img  src="../flex_grid_proj.png"></img>
+                </a>
             </div>
             
            
