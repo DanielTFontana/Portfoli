@@ -5,7 +5,9 @@ const project_3 = () => {
         <Fragment>
             <div className="container mx-auto">
                 <div className="p-10 container mx-auto flex justify-center">
-                    <img className="w-7/12 rounded-md min-[500px]:w-full sm:w-full lg:w-full xl:w-8/12" src="../palpiteBox.png"></img>
+                    <a className="w-7/12 rounded-md min-[500px]:w-full sm:w-full lg:w-full xl:w-8/12" href="https://github.com/DanielTFontana/Palpite-Box">
+                    <img  src="../palpiteBox.png"></img>
+                    </a>
                 </div>
                 <div className="container mx-auto grid justify-items-center gap-4 p-10 sm:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2">
 
